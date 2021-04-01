@@ -95,5 +95,13 @@ Day | Topic
 **82** | [Offensive GraphQL API Pentesting - Talk](/days/day82.md)
 **83** | [Bug Bounties with Bash - Talk](/days/day83.md)
 **84** | [Chrome Extensions Code Review - Talk](/days/day84.md)
+**85** | [Server-Side Template Injection - Talk](/days/day85.md)
+**86** | [Exploiting GraphQL - Blog](/days/day86.md)
+**87** | [Exploiting Email Systems - Talk](/days/day87.md)
+**88** | [Hacking with DevTools - Tutorial](/days/day88.md)
+**89** | [Common Android Application Vulnerabilities - Talk](/days/day89.md)
+**90** | [SAML XML Injection - Research Blog](/days/day90.md)
+**91** | [Finding Access Control & Authorization Issues with Burp - Blogs](/days/day91.md)
 
+ 
 
